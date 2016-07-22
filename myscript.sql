@@ -1,0 +1,3 @@
+select ename
+from emp
+/
