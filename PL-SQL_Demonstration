@@ -1,0 +1,15 @@
+SELECT ename
+FROM emp
+/
+
+UPDATE emp
+SET ename='LAWRANCE', sal='1300'
+WHERE ename='MARTIN'
+/
+
+DELETE FROM emp
+WHERE ename='JONES' AND job='MANAGER'
+
+INSERT INTO emp
+VALUES ('7905', 'HORAN', 'MANAGER','7566', '18-AUG-87', '2000', '0') 
+/
