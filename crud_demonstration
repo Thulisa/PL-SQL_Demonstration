@@ -16,7 +16,7 @@ FROM emp
 /
 
 DELETE FROM emp
-WHERE ename='JONES' AND job='MANAGER'
+WHERE ename='LAWRANCE' AND sal='1300'
 /
 
 
