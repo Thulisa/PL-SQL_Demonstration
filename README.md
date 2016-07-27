@@ -1,7 +1,7 @@
 # SQL-Demonstration
 
 <h2> Overview </h2>
-This script demonstrates the basic CRUD sql quaries.  
+This script demonstrates the basic CRUD sql queries.  
 
 <h2> Descripton </h2>
 This script creates a table named "emp", that has multiple columns; namely: empno, deptno, job, mgr, hiredate, sal and comm.
